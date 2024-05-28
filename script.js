@@ -30,26 +30,26 @@ $(function () {
     buffInterval = null,
     tFlag = false,
     albums = [
-      "Dawn",
-      "Me & You",
-      "Electro Boy",
-      "Home",
-      "Proxy (Original Mix)"
+      "Siboy -Mobali ",
+      "wii Sport",
+      "PNL - 91's",
+      "Lartiste - Vaï & Viens",
+      "SAO - smash kirito "
     ],
     trackNames = [
-      "Skylike - Dawn",
-      "Siboy -Mobali",
-      "Kaaze - Electro Boy",
-      "Jordan Schor - Home",
-      "Martin Garrix - Proxy"
+      "2017, Tu me gavais avec",
+      "2006, Taaaaaah l'époque",
+      "2018, Fou rire au bled sah",
+      "2018, toutes les musiques de Lartiste en sah",
+      "2012, Ton first animé quand même!"
     ],
     albumArtworks = ["_1", "_2", "_3", "_4", "_5"],
     trackUrl = [
-      "https://www.youtube.com/watch?v=xoWxv2yZXLQ&list=PLWL923jZIGrtOTDYPnk7wYo931GIS2-CD",
-      "https://www.youtube.com/watch?v=OBQGV-OuSgQ",
-      "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/music/3.mp3",
-      "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/music/4.mp3",
-      "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/music/5.mp3"
+      "https://github.com/inesssfd/Cousine-/raw/main/Siboy%20-%20Mobali%20(Audio)%20ft.%20Benash%2C%20Damso%20(1).mp3",
+      "https://github.com/inesssfd/Cousine-/raw/main/Wii%20Sports%20-%20Title%20(HQ)%20(1).mp3",
+      "https://github.com/inesssfd/Cousine-/raw/main/91's.mp3",
+      "https://github.com/inesssfd/Cousine-/raw/main/Lartiste%20-%20Va%C3%AF%20%26%20Viens%20(Clip%20Officiel)%20(1).mp3",
+      "https://github.com/inesssfd/Cousine-/raw/main/Sword%20Art%20Online%20-%20Opening%201%20%5B4K%2060FPS%20_%20Creditless%20_%20CC%5D.mp3"
     ],
     playPreviousTrackButton = $("#play-previous"),
     playNextTrackButton = $("#play-next"),
@@ -248,3 +248,8 @@ $(function () {
 
   initPlayer();
 });
+
+
+
+
+
